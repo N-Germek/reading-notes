@@ -1,3 +1,5 @@
+<markup>
+
 # reading-notes
 
 ## **Growth Mindset**
@@ -15,3 +17,15 @@
 
 ## Table of Contents
 ![image](https://user-images.githubusercontent.com/96098971/146697497-3f2dcc23-8af7-4635-943c-aa02a2ebeeec.png)
+
+##### Cheat Sheet
+
+#### Wireframing
+
+##### HTML Reading
+
+#### Git and Uploads
+
+#### CSS Reading
+
+#### JavaSript Reading
