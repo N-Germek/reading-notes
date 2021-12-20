@@ -12,18 +12,23 @@ The other Version Control Systems are known as:
 - CVCS: Centralized Version Control, database with branches to send and receive original code to multiple developers when collaborating, allows administrators to control what parts of the project they are sending the developers, also allows team members to see and act on changes without damaging the original file.
 </p>
 
-<section>
-
-<A href = “https://n-germek.github.io/reading-notes/”> Home </A> 
-
-<A href = “https://n-germek.github.io/reading-notes/cheat-sheet”> Cheat Sheet </A> 
-
-<A href = “https://n-germek.github.io/reading-notes/wireframe-reading-notes”> Wireframing </A> 
-
-<A href = “https://n-germek.github.io/reading-notes/git-uploads”> Git & Uploads </A>
-
-<A href = “https://n-germek.github.io/reading-notes/css-reading”> CSS </A> 
-
-<A href = “Link”> JavaScript </A>
-
-</section>
+<div>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/”> Home </A> 
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/cheat-sheet”> Cheat Sheet </A> 
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/wireframe-reading-notes”> Wireframing </A> 
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/html-reading”> HTML </A>
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/css-reading”> CSS </A> 
+    </ul>
+    <ul>
+        <A href = “Link”> JavaScript </A>
+    </ul>  
+</div>

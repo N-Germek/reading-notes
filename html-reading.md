@@ -17,11 +17,23 @@
             Similar to an essay, HTML needs to start with a header. It needs to include a body. Paragraphs within that body. as well as a footer.  In the cases of needing specific sections, buttons, links or images to appear, HTML is what creates those spaces for that content to reside.  Ultimately without HTML, all the bells and whistles of color and spacing mean nothing until you know what font to use and what text to include. 
         </p> 
     </body>
-    <section>
-    <A href = “https://n-germek.github.io/reading-notes/”> Home </A> 
-    <A href = “https://n-germek.github.io/reading-notes/cheat-sheet”> Cheat Sheet </A> 
-    <A href = “https://n-germek.github.io/reading-notes/wireframe-reading-notes”> Wireframing </A> 
-    <A href = “https://n-germek.github.io/reading-notes/git-uploads”> Git & Uploads </A>
-    <A href = “https://n-germek.github.io/reading-notes/css-reading”> CSS </A> 
-    <A href = “Link”> JavaScript </A>  
-    </section>
+<div>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/”> Home </A> 
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/cheat-sheet”> Cheat Sheet </A> 
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/wireframe-reading-notes”> Wireframing </A> 
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/git-uploads”> Git & Uploads </A>
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/css-reading”> CSS </A> 
+    </ul>
+    <ul>
+        <A href = “Link”> JavaScript </A>
+    </ul>  
+</div>

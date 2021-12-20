@@ -18,14 +18,23 @@
 ## Table of Contents
 ![image](https://user-images.githubusercontent.com/96098971/146697497-3f2dcc23-8af7-4635-943c-aa02a2ebeeec.png)
 
-##### Cheat Sheet
-
-#### Wireframing
-
-##### HTML Reading
-
-#### Git and Uploads
-
-#### CSS Reading
-
-#### JavaSript Reading
+<div>
+    <ul>
+        <A href = “https://n-germek.github.io/html-reading/”> HTML </A> 
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/cheat-sheet”> Cheat Sheet </A> 
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/wireframe-reading-notes”> Wireframing </A> 
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/git-uploads”> Git & Uploads </A>
+    </ul>
+    <ul>
+        <A href = “https://n-germek.github.io/reading-notes/css-reading”> CSS </A> 
+    </ul>
+    <ul>
+        <A href = “Link”> JavaScript </A>
+    </ul>  
+</div>
