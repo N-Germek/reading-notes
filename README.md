@@ -16,7 +16,6 @@
 ##### *"Prepare to fail: it is part of the development process."* 
 
 ## Table of Contents
-![image](https://user-images.githubusercontent.com/96098971/146697497-3f2dcc23-8af7-4635-943c-aa02a2ebeeec.png)
 
 <div>
     <ul>
