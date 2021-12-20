@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# reading-notes
 
-You can use the [editor on GitHub](https://github.com/N-Germek/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## **Growth Mindset**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### The growth mindset is the process of thinking and processing information in a way that will expand your leraning capabilities by utilizing your inquisitive nature to problem solve through questions.  Utilizing the growth mindset means to ask open ended questions designed to identify the root cause of problems. These questions can include:
+  
+##### 1. **Why is this problem persisting?** 
+##### 2. **How can I solve this problem?**
+##### 3. **What is the reason that it needs to be solved?**
+##### 4. **Who is my target audience for this solution?**
+  
+#### The fixed mindset is to problem solve through thought paterns and questions with a systematic guide or step by step mentality. For the fixed mindset the idea or result of failure is the conclusiong to the problem. Whereas in the growth mindset, the idea of failure can be utilized as a tool to grow and further activate the growth mindset. This can best demonstrated in the quote below.
+  
+##### *"Prepare to fail: it is part of the development process."* 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/N-Germek/reading-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Table of Contents
+![image](https://user-images.githubusercontent.com/96098971/146697497-3f2dcc23-8af7-4635-943c-aa02a2ebeeec.png)
