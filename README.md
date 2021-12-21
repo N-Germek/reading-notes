@@ -18,8 +18,13 @@
 ## Table of Contents
 
 > [HTML](ttps://n-germek.github.io/html-reading/) 
+  
   [Cheat-Sheet](https://n-germek.github.io/reading-notes/cheat-sheet)
+  
   [Wireframing](https://n-germek.github.io/reading-notes/wireframe-reading-notes) 
+  
   [Git-Downloads](https://n-germek.github.io/reading-notes/git-uploads)
+  
   [css](https://n-germek.github.io/reading-notes/css-reading)
+  
    [JavaScript](Link)
