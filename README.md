@@ -17,7 +17,7 @@
 
 ## Table of Contents
 
-> [HTML](ttps://n-germek.github.io/html-reading/) 
+> [HTML](https://n-germek.github.io/html-reading/) 
   
   [Cheat-Sheet](https://n-germek.github.io/reading-notes/cheat-sheet)
   
@@ -27,4 +27,4 @@
   
   [css](https://n-germek.github.io/reading-notes/css-reading)
   
-   [JavaScript](Link)
+  [JavaScript](Link)
