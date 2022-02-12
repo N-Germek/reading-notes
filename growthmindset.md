@@ -1,4 +1,4 @@
-<markdown>
+<!DOCTYPE markdown>
 
 # reading-notes
 
