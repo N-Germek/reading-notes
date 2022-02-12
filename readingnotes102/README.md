@@ -1,5 +1,3 @@
-<!DOCTYPE markdown>
-
 # reading-notes
 
 ## **Growth Mindset**
@@ -17,14 +15,18 @@
 
 ## Table of Contents
 
-> [HTML](https://n-germek.github.io/html-reading/) 
-  
-  [Cheat-Sheet](https://n-germek.github.io/reading-notes/cheat-sheet)
-  
-  [Wireframing](https://n-germek.github.io/reading-notes/wireframe-reading-notes) 
-  
-  [Git-Downloads](https://n-germek.github.io/reading-notes/git-uploads)
-  
-  [css](https://n-germek.github.io/reading-notes/css-reading)
-  
-  [JavaScript](Link)
+#### ***Quick links***
+
+> [Cheat Sheet](cheat-sheet.md)
+
+> [HTML](html-reading.md)
+
+> [Wireframing](wireframe-reading-notes.md)
+
+> [Git & Uploads](git-uploads.md)
+
+> [CSS](css-reading.md)
+
+> [JavaScript](JavaScript-reading.md)
+
+> [JavaScript Control Flow](JavaScript-Control-Flow.md)
