@@ -3,7 +3,7 @@
     Lets get into the next stage of being a coder.  Time for a deep dive into some concepts and topics.  
 
 ### Table of Contents
-- 
+- [Class 01](readingnotes201/class-01.md)
 - 
 - 
 - 
