@@ -5,7 +5,8 @@
             <title>201 Input-Output Demo</title>
             <style>
                 ol{
-                    color:blanchedalmond
+                    color:blanchedalmond;
+                    background-color: rgb(194, 127, 194);
                 }
             </style>
     </head>
@@ -26,12 +27,12 @@
             </p>
         </ol>
         <ol>
-            <p>
-                This should also be green.
+            <p style="color:aquamarine">
+                This should be aqua.
             </p>
         </ol>
         <ol>
-            <p style="color:grey">
+            <p style="color:rgb(117, 114, 114)">
                 This color should be grey.
             </p>
         </ol>
@@ -48,11 +49,11 @@
 
     alert('I have a question? ' + username);
     let response = prompt('How many language are you hoping to learn? ' + username);
-    alert('Thats great!');
+    alert('Thats a lot of hard work.');
     console.log(response);
 
     prompt('When do you hope to graduate?');
-    let December = alert('Good luck!');
+    let December = alert('Good luck!' + username);
     console.log(December);
 
 </script>
