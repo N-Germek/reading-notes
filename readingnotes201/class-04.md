@@ -11,5 +11,8 @@ If you are referencing a different site, you will want to let the user know the 
 
 ### Positioning ###
 
-Page layouts can be adjusted by defining the element layout. setting the layout relative to a tag or location in the page, helps to ensure that content is seen relative to a page in diffeernt mediums. identifying the position of a block level element and inline elements can organize the structure of the page.
+Page layouts can be adjusted by defining the element layout. Setting the layout relative to a tag or location in the page, helps to ensure that content is seen relative to a page in diffeernt mediums. Identifying the position of a block level element and inline elements can organize the structure of the page. Control flow elements are what help the user to navigate the same way under multiple browsers and different mediums without risking errors in page layout by the author. 
 
+
+
+> [Home Page](README.md)
