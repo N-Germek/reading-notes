@@ -11,3 +11,5 @@ Who wants on ly text and pictures on a webpage though.  That will make it no dif
 Images and Color aren't the only way to keek the user and reader engaged.  Text has many things it can do to relay relevance and content.  If you are showcasing caligraphy skills, wouldn't it be fun to have a text font that cound do that? Well your image of your completed personalized cards will go hand in hand with the calligraphy font in your appointment setting section on your page with a calming backdrop of an opaque color now wouldn't it.  Font size, alignment and style can all relay information as well as distinguish parts of your page from other parts.  
 
 How about you play with it all and see what you can bring together.
+
+> [Home Page](README.md)

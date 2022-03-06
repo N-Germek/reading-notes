@@ -1,6 +1,14 @@
 ## Code 201 Reading Notes
 
-    Lets get into the next stage of being a coder.  Time for a deep dive into some concepts and topics.     
+    Lets get into the next stage of being a coder.  Time for a deep dive into some concepts and topics.    
+
+> [HTML & JavaScript: the Begining](class-01.md)
+
+> [JavaScript Functions, Methods & Objects](class-04.md)
+
+> [Let's Make everything Look Pretty with CSS](class-05.md)
+
+> [HTML Tables & Object Oriented Programing](class-07.md)
 
  ## Code 102 Reading Notes
 
