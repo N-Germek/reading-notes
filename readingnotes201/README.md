@@ -1,44 +1,29 @@
 ## Code 201 Reading Notes
 
-    Lets get into the next stage of being a coder.  Time for a deep dive into some concepts and topics.    
+    Lets get into the next stage of being a coder.  Time for a deep dive into some concepts and topics.  
 
-> [HTML & JavaScript: the Begining](class-01.md)
+### Table of Contents
 
-> [JavaScript Functions, Methods & Objects](class-04.md)
+- > [HTML & JavaScript: the Begining](class-01.md)
 
-> [Let's Make everything Look Pretty with CSS](class-05.md)
+- > [Class 02](class-02.md)
 
-> [HTML Tables & Object Oriented Programing](class-07.md)
+- > [Class 03](class-03.md)
 
- ## Code 102 Reading Notes
+- > [JavaScript Functions, Methods & Objects](class-04.md)
 
-> [Cheat Sheet](readingnotes102/cheat-sheet.md)
+- > [Let's Make everything Look Pretty with CSS](class-05.md)
 
-> [HTML](html-reading.md)
+- > [Class 06](class-06.md)
 
-> [Wireframing](wireframe-reading-notes.md)
+- > [HTML Tables & Object Oriented Programing](class-07.md)
 
-> [Git & Uploads](git-uploads.md)
+- > [CSS Layout Deep Dive](class-08.md)
 
-> [CSS](css-reading.md)
+- > [Class 06](class-06.md)
 
-> [JavaScript](JavaScript-reading.md)
+- > [Class 06](class-06.md)
 
-> [JavaScript Control Flow](JavaScript-Control-Flow.md)
+- > [Class 06](class-06.md)
 
- ### Table of Contents
-- > [Home Page](README.md)
-- > [Index](index.html)
-- > [Class 01](READINGNOTES201/class-01.md)
-- > [Class 04](READINGNOTES201/class-04.md)
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- > [Class 06](class-06.md)

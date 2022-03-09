@@ -9,4 +9,4 @@ JavaScript has many propreties built in as defaults, yet there are many more tha
 
 Ultimately the purpose of methods within objects are to take more complex data or larger quantities of data, manupulate it and return it to the user in a way utilixzed in real world application.
 
-> [Home Page](README.md)
+- > [Home Page](READING-NOTES/README.md)
