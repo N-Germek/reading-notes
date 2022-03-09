@@ -10,9 +10,9 @@ To understand the display, you will first have to know what all it encompasses. 
 
 ### Flexbox Versus Grid ###
 
-The two primary layout templates are known as *Flexbox* and *Grid*. Though they are similar, they have two very differnet objectives to solve two problems.
+The two primary layout templates are known as *Flexbox* and *Grid*. Though they are similar, they have two very different objectives to solve two problems.
 
-- Flexbox will align elements next to each other inline with their child elements.  Flexbox can only access one axis on default.  The purpose is to stretch and take as much space as possible within the target element.  Items will not wrap, they will squish to make sure it all will fit on the same axis. Aligning, wrapping and justifying the content or items is needed to override these defaults however, flexbox will address them all as s group instead of indivitual pieces.
+- Flexbox will align elements next to each other inline with their child elements.  Flexbox can only access one axis on default.  The purpose is to stretch and take as much space as possible within the target element.  Items will not wrap, they will squish to make sure it all will fit on the same axis. Aligning, wrapping and justifying the content or items is needed to override these defaults however, flexbox will address them all as s group instead of individual pieces.
 
 - Grid is designed to access multiple dimensions at once with defaults.  Though you can set specific display parameters in Flexbox to elements, Grid has those elements already embedded in the default code. Grid would be more useful when you are needing to utilize repetitive instructions and target individual pieces of an element. Though the template is a grid, all the parts and pieces of it are individual items that can be manipulated.
 
