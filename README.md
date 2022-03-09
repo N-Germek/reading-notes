@@ -11,7 +11,7 @@
 > [Class 05](readingnotes201/class-05.md)
 > [Class 06](readingnotes201/class-06.md)
 > [Class 07](readingnotes201/class-07.md)
-> [Class 06](readingnotes201/class-06.md)
+> [Class 08](readingnotes201/class-08.md)
 > [Class 06](readingnotes201/class-06.md)
 > [Class 06](readingnotes201/class-06.md)
 > [Class 06](readingnotes201/class-06.md)
