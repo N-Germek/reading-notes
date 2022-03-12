@@ -34,8 +34,7 @@
 
 - > [HTML](readingnotes102/html-reading.md)
 
-- > [Wireframing](readingnotes102/wireframe-reading-notes.
-md)
+- > [Wireframing](readingnotes102/wireframe-reading-notes.md)
 
 - > [Git & Uploads](readingnotes102/git-uploads.md)
 
