@@ -20,13 +20,13 @@
 
 - > [CSS Layout Deep Dive](readingnotes201/class-08.md)
 
-- > [Class 06](readingnotes201/class-06.md)
+- > [Forms and Events](readindnotes201/class-09.md)
 
-- > [Class 06](readingnotes201/class-06.md)
+- > [Class 10](readingnotes201/class-06.md)
 
-- > [Class 06](readingnotes201/class-06.md)
+- > [Class 11](readingnotes201/class-06.md)
 
-- > [Class 06](readingnotes201/class-06.md)
+- > [Class 12](readingnotes201/class-06.md)
 
 ## Code 102 Reading Notes
 
