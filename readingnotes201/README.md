@@ -20,7 +20,7 @@
 
 - > [CSS Layout Deep Dive](class-08.md)
 
-- > [Class 06](class-06.md)
+- > [Forms and Events](class-09.md)
 
 - > [Class 06](class-06.md)
 
