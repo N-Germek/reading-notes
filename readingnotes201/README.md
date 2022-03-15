@@ -22,7 +22,7 @@
 
 - > [Forms and Events](class-09.md)
 
-- > [Class 06](class-06.md)
+- > [Error Handling and Debugging](class-10.md)
 
 - > [Class 06](class-06.md)
 
