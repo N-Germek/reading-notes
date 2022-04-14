@@ -1,4 +1,4 @@
-### Links ###
+# Links
 
 Links can be utilized for many things yet the primary reasons are for linkig to another page, linking to another website, linking to another tab or linking to open and send an email.
 
@@ -12,11 +12,11 @@ id="LocationInIndex">Location Description</h1>"
 this is a great way to eliminate the need to scroll back to the top for wabpages.
 If you are referencing a different site, you will want to let the user know the link will open in a new window as well as notate the exact path in the link.
 
-### Positioning ###
+## Positioning
 
 Page layouts can be adjusted by defining the element layout. Setting the layout relative to a tag or location in the page, helps to ensure that content is seen relative to a page in diffeernt mediums. Identifying the position of a block level element and inline elements can organize the structure of the page. Control flow elements are what help the user to navigate the same way under multiple browsers and different mediums without risking errors in page layout by the author.
 
-### JS: Functions, Methods and Objects ###
+## JS: Functions, Methods and Objects
 
 To create a function you would need to declare the function, call the function name and be sure to input all the parameters of the function to get best and most specific results. Methods are the same as functions though they are placed inside objects.
 Objects utilize properties and methods to create recognizeable items from the real world into your site.
