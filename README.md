@@ -1,8 +1,8 @@
-## Code 201 Reading Notes
+# Code 201 Reading Notes
 
     Lets get into the next stage of being a coder.  Time for a deep dive into some concepts and topics.  
 
-### Table of Contents
+## Table of Contents
 
 - > [HTML & JavaScript: the Begining](readingnotes201/class-01.md)
 
