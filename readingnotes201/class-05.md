@@ -1,4 +1,4 @@
-## Lets make Everything Look Pretty
+# Lets make Everything Look Pretty
 
 Images, Color and Text are all ways to engage the reader or user in any site.
 
@@ -12,4 +12,4 @@ Images and Color aren't the only way to keek the user and reader engaged.  Text 
 
 How about you play with it all and see what you can bring together.
 
-- > [Home Page](READING-NOTES/README.md)
+- > [Home Page](README.md)

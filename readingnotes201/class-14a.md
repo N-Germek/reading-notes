@@ -1,4 +1,4 @@
-## CSS Transforms; Time to Animate ##
+# CSS Transforms; Time to Animate ##
 
 The transform property in CSS is how animation truly starts. Transform can be two-dimensional or three-dimensional yet they all start at the *transform origin* since it is exactly 50% horizontal and vertical on the element targeted. Though browser supports fight sometimes, they are becoming closer allies in the dev's toolbelt.
 
@@ -48,3 +48,5 @@ There are many ways to engage your users and how to gain their interest. One thi
 source: [CSS Transforms](https://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
 source: [8 SIMPLE CSS3 TRANSITIONS THAT WILL WOW YOUR USERS](https://www.webdesignerdepot.com/2014/05/8-simple-css3-transitions-that-will-wow-your-users)
+
+- > [Home](README.md)

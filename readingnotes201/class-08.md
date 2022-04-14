@@ -24,4 +24,4 @@ The simple answer: Flow layout.  Flow layout is the standard layout for CSS.  To
 
 Well now we are looking at positioning. Position is another layout tool used and generally needed to help define a page stylistically. Where you plan to put text, what direction of the element you plan to adjust and how you want the parts to be visually stimulating and engaging all rely on your positioning.  For your intended user, will they be able to tell where the context ends or will it get mixed in with the data from an example.  Those answers can all be determined by utilization of positioning so the user can clearly see what part of the page is part of which.  
 
-- > [Home Page](READING-NOTES/README.md)
+- > [Home Page](README.md)

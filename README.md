@@ -4,6 +4,8 @@
 
 ## Table of Contents
 
+- > [Home for 201](readingnotes201/README.md)
+
 - > [HTML & JavaScript: the Begining](readingnotes201/class-01.md)
 
 - > [Class 02](readingnotes201/class-02.md)
@@ -29,6 +31,8 @@
 - > [Class 12](readingnotes201/class-06.md)
 
 ## Code 102 Reading Notes
+
+- > [Home of 102](readingnotes102/README.md)
 
 - > [Cheat Sheet](readingnotes102/cheat-sheet.md)
 

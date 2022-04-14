@@ -21,4 +21,4 @@ Page layouts can be adjusted by defining the element layout. Setting the layout 
 To create a function you would need to declare the function, call the function name and be sure to input all the parameters of the function to get best and most specific results. Methods are the same as functions though they are placed inside objects.
 Objects utilize properties and methods to create recognizeable items from the real world into your site.
 
-- > [Home Page](READING-NOTES/README.md)
+- > [Home Page](README.md)

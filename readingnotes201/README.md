@@ -24,6 +24,6 @@
 
 - > [Error Handling and Debugging](class-10.md)
 
-- > [Class 06](class-06.md)
+- > [Class 11](class-11.md)
 
-- > [Class 06](class-06.md)
+- > [Class 12](class-12.md)

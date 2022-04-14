@@ -1,4 +1,4 @@
-## What Google Learned About Teams
+# What Google Learned About Teams
 
 How to build a team, retain a team and manage a team are all basic necessities of any business to be successful. Determining factors to whether a project will be successful or not can be gaged by the results of productivity within a working team. As a massive corporation, Google learned a lot about this subject through investing millions into reworking their team environment.
 
@@ -16,4 +16,4 @@ The list of things I want to learn about is very vast, yet ultimately, how to pr
 
 As for psychological safety, I would like to learn how things have changed as the working environment has changed to being more remote for those who read more off of body language and feelings through in person connection.
 
-- > [Home Page](READING-NOTES/README.md)
+- > [Home Page](README.md)

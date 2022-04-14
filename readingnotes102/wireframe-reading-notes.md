@@ -2,12 +2,12 @@
 
 <head>
 
+</head>
 <body>
 
 <header>
     <h1>The Building Block called Wireframe</h1>
 </header>
-</head>
 
 <main>
 
