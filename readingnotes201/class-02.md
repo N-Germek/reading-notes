@@ -26,8 +26,6 @@ Empty elements are used when ther is no need for a closing tag as all the needed
 `<hr /> gives the horizontal rule for a horizontal line.`
 
 > `<blockquote> for longer quotes into a pharagraph.`
-`<q> is for shorter pharagraphs that may need to  </p>`
-`<p> is for pharagraph </p>`
-`<p> is for pharagraph </p>`
+`<q> is for shorter quotes.`
 
 - > [Home Page](README.md)
