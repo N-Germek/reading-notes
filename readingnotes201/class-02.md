@@ -1,4 +1,6 @@
-# Text
+# Text and Visual Changes
+
+## Text
 
 Since HTML defines the structure of a webpage, the text within it is very important. The process of detemining what pieces go where so the user or visitor of the page can understand it is due to the semntic matkup of the HTML.
 
@@ -27,5 +29,22 @@ Empty elements are used when ther is no need for a closing tag as all the needed
 
 > `<blockquote> for longer quotes into a pharagraph.`
 `<q> is for shorter quotes.`
+
+`<abbr> for abbreviations.`
+
+`<cite> to cite references.`
+
+`<dfn> for a defining instance of new term and is sometimes displayed as itallic.`
+
+`<address> contains the information about the site creator.`
+
+`<ins>, <del> and <s> tags are for changing the content in the paragraph.`
+
+# Visual Appeal
+
+Visual appeal is achieved through CSS. CSS uses selectors and declarations to determine what is changed.
+`p {background: aqua;}`. The individual pieces of the declaration are the property and value that would need to be updated. 
+
+To activste CSS in a page, you will need a link tag, href, tyoe, rel and style tags.
 
 - > [Home Page](README.md)
