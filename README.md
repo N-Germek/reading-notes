@@ -1,8 +1,11 @@
-# Code 201 Reading Notes
+# Code Reading Notes
 
     Lets get into the next stage of being a coder.  Time for a deep dive into some concepts and topics.  
+## Code 301 Table of Contents
 
-## Table of Contents
+- > [Introduction to React and Components](readingnotes301/class-01.md)
+
+## Code 201 Table of Contents
 
 - > [Home for 201](readingnotes201/README.md)
 
