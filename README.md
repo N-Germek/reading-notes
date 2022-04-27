@@ -5,6 +5,8 @@
 
 - > [Introduction to React and Components](readingnotes301/class-01.md)
 
+- > [React State and Components](readingnotes301/class-02.md)
+
 ## Code 201 Table of Contents
 
 - > [Home for 201](readingnotes201/README.md)

@@ -6,4 +6,4 @@ Pro's of using component oriented software design versus object oriented softwar
 
 A component is a software object with reusable, replaceable, and portable functionality that is specifically designed for a task. It has a set selection of rules built in and it follows that expected behavior of components similar to other components in the architecture.
 
->[Introduction to React and Components](READING-NOTES/readingnotes301/class-01.md)
+- > [Home Page](README.md)
