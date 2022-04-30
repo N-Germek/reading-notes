@@ -23,10 +23,12 @@ The spread operator can copy an array, combine objects, add state in React, conc
 Give an example of using the spread operator to combine two arrays.
 
 >const coffeeBeans = ['whole','ground','coarseGround','fineGround','espresso']
-const moreBeans = [...coffeeBeans];
+
+>const moreBeans = [...coffeeBeans];
 console.log(coffeeBeans) 
 // Array(5) [ "" ]
-fruits[0] = 'whole'
+
+>coffeeBeans[0] = 'whole'
 console.log(...[...coffeeBeans,'...',...moreBeans]) //  'whole','ground','coarseGround','fineGround','espresso' ... 'whole','ground','coarseGround','fineGround','espresso'
 
 Give an example of using the spread operator to add a new item to an array.
