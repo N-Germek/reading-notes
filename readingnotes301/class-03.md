@@ -34,3 +34,9 @@ console.log(...[...coffeeBeans,'...',...moreBeans]) //  'whole','ground','coarse
 Give an example of using the spread operator to add a new item to an array.
 
 Give an example of using the spread operator to combine two objects into one.
+
+
+In the video, what is the first step that the developer does to pass functions between components?
+In your own words, what does the increment function do?
+How can you pass a method from a parent component into a child component?
+How does the child component invoke a method that was passed to it from a parent component?
