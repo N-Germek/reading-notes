@@ -7,6 +7,14 @@
 
 - > [React State and Components](readingnotes301/class-02.md)
 
+- > [Passing Functions and Props](readingnotes301/class-03.md)
+
+- > [React and Forms](readingnotes301/class-04.md)
+
+- > [Placeholder](readingnotes301/class-05.md)
+
+- > [NODE.JS](readingnotes301/class-06.md)
+
 ## Code 201 Table of Contents
 
 - > [Home for 201](readingnotes201/README.md)
