@@ -7,3 +7,7 @@
 - > [Passing Functions and Props](readingnotes301/class-03)
 
 - > [React and Forms](readingnotes301/class-04)
+
+- > [Home Page](README.md)
+
+- > [Node.js and Pair Programming](readingnotes301/class-06)
