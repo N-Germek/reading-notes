@@ -42,4 +42,4 @@ One of the things I am curious about is how they created API's in the past for s
 
 ### Resources
 
-- > [A Conversation about REST with my brother] (https://gist.github.com/brookr/5977550)
+- > [A Conversation about REST with my brother](https://gist.github.com/brookr/5977550)
