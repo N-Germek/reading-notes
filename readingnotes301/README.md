@@ -11,3 +11,5 @@
 - > [Home Page](README.md)
 
 - > [Node.js and Pair Programming](readingnotes301/class-06)
+
+- > [REST](readingnotes301/class-07)
