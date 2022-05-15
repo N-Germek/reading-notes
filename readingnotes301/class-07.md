@@ -20,21 +20,25 @@
 
 Geocoding API
 
-Did you get your API key? - Yes
+Did you get your API key? - Yes.
 
 Weather Bit API
 
-Did you get your API key? - No, I will also need TA help with that one since I am unsure what I am doing incorrently
+Did you get your API key? - Yes.
 
 Yelp API Docs
 
-Did you get your API key? - No, I am unsure where to go to get this information.
+Did you get your API key? - No, I am unsure where to go to get this information and will continue to research.
 
 The Movie DB API Docs
 
 Did you get your API key? - Yes.
 
 - > [Home Page](README.md)
+
+## Things I want to learn more about:
+
+One of the things I am curious about is how they created API's in the past for some of the LAN parties I attended.
 
 ### Resources
 
