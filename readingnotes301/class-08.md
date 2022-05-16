@@ -42,3 +42,7 @@ What status code does a successful DELETE request return? 204
 - > [Table Of Contents](READING-NOTES/README.md)
 
 - > [Home Page](README.md)
+
+##### Resources
+
+- > [RESTful web API design](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
