@@ -1,15 +1,19 @@
 # Code 301 - Intermediate Software Development
 
-- > [Introduction to React and Components](readingnotes301/class-01)
-
-- > [React State Versus Props](readingnotes301/class-02)
-
-- > [Passing Functions and Props](readingnotes301/class-03)
-
-- > [React and Forms](readingnotes301/class-04)
-
 - > [Home Page](README.md)
 
-- > [Node.js and Pair Programming](readingnotes301/class-06)
+- > [Introduction to React and Components](class-01)
 
-- > [REST](readingnotes301/class-07)
+- > [React State Versus Props](class-02)
+
+- > [Passing Functions and Props](class-03)
+
+- > [React and Forms](class-04)
+
+- > [Placeholder](class-05)
+
+- > [Node.js and Pair Programming](class-06)
+
+- > [REST](class-07)
+
+- > [API](class-08)

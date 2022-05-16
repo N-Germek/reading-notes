@@ -18,6 +18,8 @@
 
 - > [REST](readingnotes301/class-07)
 
+- > [API](readingnotes301/class-08)
+
 ## Code 201 Table of Contents
 
 - > [Home for 201](readingnotes201/README.md)
