@@ -39,6 +39,10 @@ What status code does an unsuccessful GET request return? 400
 What status code does a successful POST request return? 201
 What status code does a successful DELETE request return? 204
 
+## Things I want to know more about
+
+I need to learn more about API's and how they can interact with systems that have firewalls on them. For exapmle, can a strong firewall force a 404 return?
+
 - > [Table Of Contents](READING-NOTES/README.md)
 
 - > [Home Page](README.md)
