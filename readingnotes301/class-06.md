@@ -21,10 +21,12 @@ between them as needed.
 ## Pair Programming Uses and Benefits
 
 1.What are the 6 reasons for pair programming? Greater efficiency, engaged collaboration, learning from fellow students, social skills, job interview readiness and work environment readiness.
- 
+
 2.In your experience, which of these reasons have you found most beneficial? From my experience learning from fellow students is the best for me. I have been able to utilize differ4nt perspectives and that has helped me to see the purpose of the project clearer.
- 
+
 3.How does pair programming work? Pair programming works with a navigator and a driver in which the driver types the actual code, while the other person talks/walks then through what to type.  This gives the two people a chance to read their own code and debug as they go. The driver writes all the code and may utilize the second screen to look up solutions and documentation. The driver manages the text editor, version control switching files and writing code.
+
+- > [Table Of Contents](READING-NOTES/README.md)
 
 - > [Home Page](README.md)
 

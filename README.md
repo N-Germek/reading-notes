@@ -20,6 +20,18 @@
 
 - > [API](readingnotes301/class-08)
 
+- > [](readingnotes301/class-09)
+
+- > [](readingnotes301/class-10)
+
+- > [](readingnotes301/class-11)
+
+- > [CRUD Basics](readingnotes301/class-12)
+
+- > [More CRUD](readingnotes301/class-13)
+
+- > [](readingnotes301/class-14)
+
 ## Code 201 Table of Contents
 
 - > [Home for 201](readingnotes201/README.md)
