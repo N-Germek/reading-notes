@@ -12,7 +12,7 @@
 
 - > [React and Forms](readingnotes301/class-04.md)
 
-- > [Placeholder](readingnotes301/class-05.md)
+- > [Putting It All Together](readingnotes301/class-05.md)
 
 - > [NODE.JS](readingnotes301/class-06.md)
 

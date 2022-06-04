@@ -10,7 +10,7 @@
 
 - > [React and Forms](class-04)
 
-- > [Placeholder](class-05)
+- > [Putting It All Together](class-05)
 
 - > [Node.js and Pair Programming](class-06)
 
