@@ -28,4 +28,6 @@
 
 - > [More CRUD](class-13)
 
-- > [OAuth](class-14)
+- > [Diversity & Inclusion in the Tech Industry](class-14)
+
+- > [OAuth](class-15)

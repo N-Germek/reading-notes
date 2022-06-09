@@ -16,21 +16,23 @@
 
 - > [NODE.JS](readingnotes301/class-06.md)
 
-- > [REST](readingnotes301/class-07)
+- > [REST](readingnotes301/class-07.md)
 
-- > [API](readingnotes301/class-08)
+- > [API](readingnotes301/class-08.md)
 
-- > [](readingnotes301/class-09)
+- > [](readingnotes301/class-09.md)
 
-- > [](readingnotes301/class-10)
+- > [](readingnotes301/class-10.md)
 
-- > [](readingnotes301/class-11)
+- > [](readingnotes301/class-11.md)
 
-- > [CRUD Basics](readingnotes301/class-12)
+- > [CRUD Basics](readingnotes301/class-12.md)
 
-- > [More CRUD](readingnotes301/class-13)
+- > [More CRUD](readingnotes301/class-13.md)
 
-- > [OAuth](readingnotes301/class-14)
+- > [Diversity & Inclusion in the Tech Industry](readingnotes301/class-14.md)
+
+- > [OAuth](readingnotes301/class-15.md)
 
 ## Code 201 Table of Contents
 
