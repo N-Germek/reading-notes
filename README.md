@@ -22,7 +22,7 @@
 
 - > [](readingnotes301/class-09.md)
 
-- > [](readingnotes301/class-10.md)
+- > [In Memory Storage](readingnotes301/class-10.md)
 
 - > [](readingnotes301/class-11.md)
 

@@ -20,7 +20,7 @@
 
 - > [](class-09)
 
-- > [](class-10)
+- > [In Memory Storage](class-10)
 
 - > [](class-11)
 
