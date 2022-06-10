@@ -34,6 +34,10 @@ function callMyself() {
 
 6. What does the word ‘debugger’ do in your code? Adding the word Debugger to your code will run the history of your code block up until it.  This will give you the output or visual needed to see where your code exactly broke.
 
+## Things I want to know more about
+
+I would love to learn more about if a default syntax has the ability to override stacko overflow to throw errors, or is that simply going to return a syntax error bug when it is detected.
+
 - > [Table Of Contents](READING-NOTES/README.md)
 
 - > [Home Page](README.md)

@@ -20,6 +20,8 @@
 6. What is Device Authorization Flow?
 7. What is Resource Owner Password Flow?
 
+## Things I want to know more about
+
 - > [Table Of Contents](READING-NOTES/README.md)
 
 - > [Home Page](README.md)
