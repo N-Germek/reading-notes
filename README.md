@@ -2,7 +2,13 @@
 
     Lets get into the next stage of being a coder.  Time for a deep dive into some concepts and topics.  
 
+## Code 401 Table of Contents
+
+- > [Advanced Software Development](readingnotes401/README.md)
+
 ## Code 301 Table of Contents
+
+- > [Intermediate Software Development](readingnotes301/README.md)
 
 - > [Introduction to React and Components](readingnotes301/class-01.md)
 
@@ -36,7 +42,7 @@
 
 ## Code 201 Table of Contents
 
-- > [Home for 201](readingnotes201/README.md)
+- > [Foundations of Software Development](readingnotes201/README.md)
 
 - > [HTML & JavaScript: the Begining](readingnotes201/class-01.md)
 
@@ -64,7 +70,7 @@
 
 ## Code 102 Reading Notes
 
-- > [Home of 102](readingnotes102/README.md)
+- > [Intro to Software Development](readingnotes102/README.md)
 
 - > [Cheat Sheet](readingnotes102/cheat-sheet.md)
 
