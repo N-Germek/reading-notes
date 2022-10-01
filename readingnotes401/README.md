@@ -50,4 +50,4 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 #### Index
 
 - > [Home Page](README.md)
-- > [Python for Beginners](readingnotes401/class-01.md)
+- > [Python for Beginners](class-01.md)
