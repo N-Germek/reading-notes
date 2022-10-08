@@ -27,7 +27,7 @@ File exceptions are when a file is created that is syntactically correct, yet th
 
 ## Things I want to learn more about
 
-Refactoring in lamen terms will be something I will want to get additional practice in.
+I am curious if you can create a base case to stop a loop while still being able to error test and force one.
 
 ### Resources
 
