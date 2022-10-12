@@ -40,11 +40,11 @@ print(that_object.variable)
 this_object.function()
 ```
 
-__init__() is a function that is called when the class is being initiated and it assignes values in a class.
+__init__() is a function that is called when the class is being initiated and it assigns values in a class.
 
 ## Things I want to learn more about
 
-When would you need to utilize a class in a realworld application versus simply accessing the object or function?
+When would you need to utilize a class in a real world application versus simply accessing the object or function?
 
 ### Resources
 
