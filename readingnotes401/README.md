@@ -53,4 +53,5 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Python for Beginners](class-01.md)
 - > [Testing](class-02.md)
 - > [FileIO and Exceptions](class-03.md)
+- > [Python Objects, Classes, Recursion, pytest Fixtures and Coverage](class-04.md)
 - > [Data Structures and Algorithms](data-structures-algorithms.md)
