@@ -5,11 +5,18 @@
 ## Code 401 Table of Contents
 
 - > [Data Structures and Algorithms](readingnotes401/data-structures-algorithms.md)
+
 - > [Advanced Software Development](readingnotes401/README.md)
+
 - > [Python for Beginners](readingnotes401/class-01.md)
+
 - > [Testing](readingnotes401/class-02.md)
+
 - > [FileIO and Exceptions](readingnotes401/class-03.md)
+
 - > [Python Objects, Classes, Recursion, pytest Fixtures and Coverage](readingnotes401/class-04.md)
+
+- > [Random Module, Risk Analysis and TestCoverage](class-06.md)
 
 ## Code 301 Table of Contents
 
