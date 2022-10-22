@@ -62,3 +62,5 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Data Structures and Algorithms](data-structures-algorithms.md)
 
 - > [Random Module, Risk Analysis and TestCoverage](class-06.md)
+
+- > [Global and Non-local](class-07.md)

@@ -16,7 +16,9 @@
 
 - > [Python Objects, Classes, Recursion, pytest Fixtures and Coverage](readingnotes401/class-04.md)
 
-- > [Random Module, Risk Analysis and TestCoverage](class-06.md)
+- > [Random Module, Risk Analysis and TestCoverage](readingnotes401/class-06.md)
+
+- > [Global and Non-local](readingnotes401/class-07.md)
 
 ## Code 301 Table of Contents
 
