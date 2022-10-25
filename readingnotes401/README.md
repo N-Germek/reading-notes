@@ -64,3 +64,5 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Random Module, Risk Analysis and TestCoverage](class-06.md)
 
 - > [Global and Non-local](class-07.md)
+
+- > [List Comprehension in Python](class-08.md)

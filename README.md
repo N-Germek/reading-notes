@@ -20,6 +20,8 @@
 
 - > [Global and Non-local](readingnotes401/class-07.md)
 
+- > [List Comprehension in Python](readingnotes401/class-08.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
