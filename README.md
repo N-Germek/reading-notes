@@ -22,6 +22,8 @@
 
 - > [List Comprehension in Python](readingnotes401/class-08.md)
 
+- > [Dunder Methods and Statistical Probabilities](readingnotes401/class-09.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)

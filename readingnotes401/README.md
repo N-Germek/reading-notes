@@ -66,3 +66,5 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Global and Non-local](class-07.md)
 
 - > [List Comprehension in Python](class-08.md)
+
+- > [Dunder Methods and Statistical Probabilities](class-09.md)
