@@ -85,5 +85,3 @@ Statistics in general are fascinating to me.  How and if can BigO be affected by
 ## Links
 
 - >[Advanced Software Development](README.md)
-
-- >[Parsing Example](quotes.txt)
