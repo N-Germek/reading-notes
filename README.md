@@ -24,6 +24,10 @@
 
 - > [Dunder Methods and Statistical Probabilities](readingnotes401/class-09.md)
 
+- > [Stacks and Queues](readingnotes401/class-10.md)
+
+- > [Jypter and NumPy](readingnotes401/class-11.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
