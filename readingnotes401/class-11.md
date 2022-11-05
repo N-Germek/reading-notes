@@ -1,4 +1,4 @@
-# Juypter
+# Jupyter
 
 ## What is Jupyter?
 
