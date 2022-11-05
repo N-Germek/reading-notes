@@ -71,4 +71,4 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 
 - > [Stacks and Queues](class-10.md)
 
-- > [Jypter and NumPy](class-11.md)
+- > [Jupyter and NumPy](class-11.md)

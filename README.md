@@ -26,7 +26,7 @@
 
 - > [Stacks and Queues](readingnotes401/class-10.md)
 
-- > [Jypter and NumPy](readingnotes401/class-11.md)
+- > [Jupyter and NumPy](readingnotes401/class-11.md)
 
 ## Code 301 Table of Contents
 
