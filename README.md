@@ -28,6 +28,8 @@
 
 - > [Jupyter and NumPy](readingnotes401/class-11.md)
 
+- > [Pandas](readingnotes401/class-12.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
