@@ -74,3 +74,7 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Jupyter and NumPy](class-11.md)
 
 - > [Pandas](class-12.md)
+
+- > [Linear Regression](class-13.md)
+
+- > [Matplotlib](class-14.md)

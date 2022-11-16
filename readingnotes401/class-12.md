@@ -16,6 +16,11 @@ DataFrame.sort_values() - sorts by values.
 DataFrame.at(), DataFrame.iat(), DataFrame.loc(), DataFrame.iloc() - are all ways to select, pinpoint, and locate specific data.
 DataFrame.dropna() - drops rows with missing data.
 DataFrame.fillna() - fills missing data.
+isna() - gets the boolean mask where the values are nan(not a number).
+DataFrame.apply() applies a user defined functionto the data.
+concat() - method to concatenate pandas objects together along an axis. 
+merge() enables SQL style join types along a specific axis.
+sum() - 
 ```
 
 ## Things I want to know more about

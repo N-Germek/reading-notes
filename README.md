@@ -30,6 +30,10 @@
 
 - > [Pandas](readingnotes401/class-12.md)
 
+- > [Linear Regression](readingnotes401/class-13.md)
+
+- > [Matplotlib](readingnotes401/class-14.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
