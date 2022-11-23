@@ -34,6 +34,8 @@
 
 - > [Matplotlib](readingnotes401/class-14.md)
 
+- > [Serverless Functions](readingnotes401/class-16.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)

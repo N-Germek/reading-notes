@@ -78,3 +78,5 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Linear Regression](class-13.md)
 
 - > [Matplotlib](class-14.md)
+
+- > [Serverless Functions](class-16.md)
