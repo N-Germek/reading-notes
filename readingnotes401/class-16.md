@@ -30,6 +30,8 @@ Highly Available: cloud provider takes care of all the fault tolerance.
 
 ## Things I want to know more about
 
+I would like to know which serverless container is most proferred to be used. Specifically, Kubernetes can't run serverless apps without specialized software that integrates it with the cloud platform. I wonder if as time goes on, it may have more of those dependencies of sorts built in.
+
 ### Resources
 
 [What is serverless?](https://www.ibm.com/cloud/learn/serverless#toc-what-is-se-K3xZyJmF)
