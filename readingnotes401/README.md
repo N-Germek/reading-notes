@@ -80,3 +80,7 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Matplotlib](class-14.md)
 
 - > [Serverless Functions](class-16.md)
+
+- > [Web Scraping](class-17.md)
+
+- > [Cryptography](class-18.md)

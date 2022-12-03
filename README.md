@@ -36,6 +36,10 @@
 
 - > [Serverless Functions](readingnotes401/class-16.md)
 
+- > [Web Scraping](readingnotes401/class-17.md)
+
+- > [Cryptography](readingnotes401/class-18.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
