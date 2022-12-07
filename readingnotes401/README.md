@@ -84,3 +84,5 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Web Scraping](class-17.md)
 
 - > [Cryptography](class-18.md)
+
+- > [Automation](class-19.md)

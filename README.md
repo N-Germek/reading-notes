@@ -40,6 +40,8 @@
 
 - > [Cryptography](readingnotes401/class-18.md)
 
+- > [Automation](readingnotes401/class-19.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
