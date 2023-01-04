@@ -86,3 +86,7 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Cryptography](class-18.md)
 
 - > [Automation](class-19.md)
+
+- > [Django Intro](class-26.md)
+
+- > [Django Models and Admin](class-27.md)
