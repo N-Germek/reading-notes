@@ -46,6 +46,8 @@
 
 - > [Django Models and Admin](readingnotes401/class-27.md)
 
+- > [Django Forms and CRUD](readingnotes401/class-28.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
