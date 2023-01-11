@@ -13,7 +13,7 @@ These are the steps needed to compete to create the base user:
 
 An example of what this code will look like is this:
 
-```
+``` python
 # accounts/models.py
 from django.contrib.auth.models import AbstractUser
 from django.db import models
@@ -28,7 +28,7 @@ class CustomUser(AbstractUser):
 
 We need to update the forms.py after this to implement it with the user. This is done in an example below:
 
-```
+``` python
 
 # accounts/forms.py
 from django import forms
@@ -51,7 +51,7 @@ class CustomUserChangeForm(UserChangeForm):
 
 Finally we update our admin. Here is the sample code for that:
 
-```
+```python
 
 # accounts/admin.py
 from django.contrib import admin

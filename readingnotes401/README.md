@@ -92,3 +92,5 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Django Models and Admin](class-27.md)
 
 - > [Django Forms and CRUD](class-28.md)
+
+- > [Django Custom User Models](class-29.md)

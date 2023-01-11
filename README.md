@@ -48,6 +48,8 @@
 
 - > [Django Forms and CRUD](readingnotes401/class-28.md)
 
+- > [Django Custom User Models](readingnotes401/class-29.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
