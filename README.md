@@ -52,6 +52,8 @@
 
 - > [Django REST Framework and Docker](readingnotes401/class-31.md)
 
+- > [Django Permissions](readingnotes401/class-32.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
