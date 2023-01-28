@@ -54,6 +54,10 @@
 
 - > [Django Permissions](readingnotes401/class-32.md)
 
+- > [Django Authentication and Production Server](readingnotes401/class-33.md)
+
+- > [Django API Deployments](readingnotes401/class-34.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)

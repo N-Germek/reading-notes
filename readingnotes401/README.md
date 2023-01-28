@@ -98,3 +98,7 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Django REST Framework and Docker](class-31.md)
 
 - > [Django Permissions](class-32.md)
+
+- > [Django Authentication and Production Server](class-33.md)
+
+- > [Django API Deployments](class-34.md)
