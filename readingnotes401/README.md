@@ -102,3 +102,5 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Django Authentication and Production Server](class-33.md)
 
 - > [Django API Deployments](class-34.md)
+
+- > [Graphs](class-35.md)

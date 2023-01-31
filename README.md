@@ -58,6 +58,8 @@
 
 - > [Django API Deployments](readingnotes401/class-34.md)
 
+- > [Graphs](readingnotes401/class-35.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
