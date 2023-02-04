@@ -104,3 +104,5 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [Django API Deployments](class-34.md)
 
 - > [Graphs](class-35.md)
+
+- > [Whiteboard and Interview Process](class-36.md)
