@@ -1,4 +1,4 @@
-# Whiteboared and Interview: Tips, Tricks, and Expectations
+# Whiteboard and Interview: Tips, Tricks, and Expectations
 
 Interview tips and Whiteboard processes are ultimately ways for the developer to get a career opportunity. Here are some tips and skills to help make sure that you will land the job you want.
 
@@ -22,9 +22,9 @@ Take a few minutes and Pause before you jump right into the whiteboard. When you
 
 - Don't sweat the small stuff. Mistakes happen and we are all human, brush them off and continue so versus letting the error break your confidence.
 
-- Sit down and be humble. Take criticizm as a learning experience and a change in perspective. A great programmer knows they do not know everything and will always strive to learn. Take this experience and feedback from it for yourself and to help other developers in your future.
+- Sit down and be humble. Take criticism as a learning experience and a change in perspective. A great programmer knows they do not know everything and will always strive to learn. Take this experience and feedback from it for yourself and to help other developers in your future.
 
-- Come prepared. To set yourself up for success, communicate prior to the interview. Best question to ask: What type of technologies will I be using during my technical interview? become fermiliar with those technologies. Personal health and mental well being are things to focus on to help you prepare for an interview for confidence.
+- Come prepared. To set yourself up for success, communicate prior to the interview. Best question to ask: What type of technologies will I be using during my technical interview? become familiar with those technologies. Personal health and mental well being are things to focus on to help you prepare for an interview for confidence.
 
 - Review your work. Once complete, check your code line by line to make sure you are not missing something or have an error in the code. Remember to update your algorithm if you found you had to change information in your code. Did you identify more edge cases or test cases, update your whiteboard.
 
