@@ -62,6 +62,8 @@
 
 - > [Whiteboard and Interview Process](readingnotes401/class-36.md)
 
+- > [React and Next.js](readingnotes401/class-37.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
