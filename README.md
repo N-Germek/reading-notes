@@ -68,6 +68,8 @@
 
 - > [React Context, CSS and Metadata](readingnotes401/class-39.md)
 
+- > [React Routes and Deployment](readingnotes401/class-41.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)

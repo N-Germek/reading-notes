@@ -112,3 +112,5 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [React Builds](class-38.md)
 
 - > [React Context, CSS and Metadata](class-39.md)
+
+- > [React Routes and Deployment](class-41.md)
