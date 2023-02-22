@@ -1,4 +1,4 @@
-# React Rourtes and Deployment
+# React Routes and Deployment
 
 ## Dynamic Routes
 
