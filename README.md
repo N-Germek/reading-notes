@@ -70,6 +70,8 @@
 
 - > [React Routes and Deployment](readingnotes401/class-41.md)
 
+- > [Dunder Methods](readingnotes401/class-42.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
