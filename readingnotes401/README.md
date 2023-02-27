@@ -116,3 +116,7 @@ The philosophy of success is ever-changing. The status symbols and ideals of wha
 - > [React Routes and Deployment](class-41.md)
 
 - > [Dunder Methods](class-42.md)
+
+- > [Ethics in Tech](class-43.md)
+
+- > [OSS Contributions](class-44.md)

@@ -72,6 +72,10 @@
 
 - > [Dunder Methods](readingnotes401/class-42.md)
 
+- > [Ethics in Tech](readingnotes401/class-43.md)
+
+- > [OSS Contributions](readingnotes401/class-44.md)
+
 ## Code 301 Table of Contents
 
 - > [Intermediate Software Development](readingnotes301/README.md)
